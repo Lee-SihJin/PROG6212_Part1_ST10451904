@@ -6,4 +6,10 @@
     <ImplicitUsings>enable</ImplicitUsings>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Folder Include="Views\Coordinator\" />
+    <Folder Include="Views\Lecturer\" />
+    <Folder Include="Views\Manager\" />
+  </ItemGroup>
+
 </Project>
